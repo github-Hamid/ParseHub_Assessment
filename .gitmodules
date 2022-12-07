@@ -1,0 +1,3 @@
+[submodule ".\\client\\"]
+	path = .\\client\\
+	url = D:\\Resume_project\\ParseHub_Assessment
